@@ -1,1 +1,1 @@
-# array-pyhton-practica
+# array-practicas
